@@ -8,7 +8,7 @@ function MySkills() {
     <>
       <Box sx={{ height: "90vh", display: "flex", alignItems: "center" }}>
         <Container>
-          <Typography variant="h4" sx={{ textAlign: "center", mb: 3 }}>
+          <Typography variant="h4" sx={{ textAlign: "center", mb: 6 }}>
             What I do
           </Typography>
           <Grid

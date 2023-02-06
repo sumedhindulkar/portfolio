@@ -2,6 +2,7 @@ import React from "react";
 import { Grid, Box, Container, Button, Typography } from "@mui/material";
 import boy from "../assets/boy-img.png";
 import DownloadIcon from "@mui/icons-material/Download";
+
 function AboutMe() {
   const skills = ["AWS", "React.js", "Node.js", "Html", "CSS", "JavaSvript"];
   return (
