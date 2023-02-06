@@ -8,7 +8,7 @@ import InstagramIcon from "@mui/icons-material/Instagram";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import { TypographyCss } from "./HeroCss";
-import man from "../assets/man.jpg";
+import man from "../assets/man2.jfif";
 function Hero() {
   return (
     <Box sx={{ width: "100%" }}>
@@ -90,6 +90,7 @@ function Hero() {
                 justifyContent: "center",
                 alignItems: "center",
                 borderRadius: "50%",
+                mt: 8,
               }}
             >
               <img
@@ -98,7 +99,7 @@ function Hero() {
                   height: "350px",
                   width: "350px",
                   objectFit: "cover",
-                  objectPosition: "50% 0%",
+                  objectPosition: "10% 45%",
                   border: "none",
                   borderRadius: "50%",
                 }}

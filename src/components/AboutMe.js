@@ -6,7 +6,7 @@ function AboutMe() {
   const skills = ["AWS", "React.js", "Node.js", "Html", "CSS", "JavaSvript"];
   return (
     <>
-      <Box sx={{ mt: 10 }}>
+      <Box sx={{ height: "90vh", display: "flex", alignItems: "center" }}>
         <Container>
           <Grid
             container
